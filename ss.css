@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+body{
+    background-image: url(sobuj.jpg);
+    background-position: center;
+    background-size: cover;
+    font-family: sans-serif;
+    margin-top: 40px;
+}
+.name{
+    margin-left: 25px;
+    margin-top: 30px;
+    width: 125px;
+    font-size: 18px;
+    font-weight: 700;
+    
+}
